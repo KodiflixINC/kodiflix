@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR springgreen][B]SEJAM[/COLO][/B] [COLOR mediumspringgreenn][B]BEM VINDOS[/COLOR][/B]</name>
+<name>[COLOR fuchsia]|[COLOR/][COLOR tomato]|[COLOR/][COLOR blueviolet]|[COLOR oranged]Sejam Bem-Vindos[/COLOR][COLOR blueviolet]|[/COLOR][COLOR tomato]|[/COLOR][COLOR fuchsia]|</name>
 <thumbnail>https://ia601502.us.archive.org/30/items/fanart_20200127/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/fanart_20200127/fanart.jpg</fanart>
 <info>
 
 
-[COLOR red] - KODIFLIX[/COLOR] [COLOR blue]ainda está em suas versões de teste. Estamos trabalhando para podermos trazer o melhor que temos à te oferecer - [/COLOR]</info>
+[COLOR red]KODIFLIX[/COLOR] [COLOR blue]ainda está em suas versões de teste. Estamos trabalhando para podermos trazer o melhor que temos à te oferecer[/COLOR]</info>
 </channel>
 </channels>
 
