@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR darkslateblue]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR orangered]|||[/COLOR] - [COLOR azure]ENTRE AQUI[/COLOR] - [COLOR orangered]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR darkslateblue]|||[/COLOR]</name>
+<name>[COLOR darkslateblue]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR orangered]|||[/COLOR] - ENTRE AQUI - [COLOR orangered]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR darkslateblue]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_20200127/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/fanart_20200127/fanart.jpg</fanart>
