@@ -9,7 +9,7 @@
 <info>
 
 
-[COLOR orangered]|[/COLOR] - DESFRUTE DAS MARAVILHAS QUE O [COLOR red]KODIFLIX[/COLOR] DE OFERECER - [COLOR orangered]|[/COLOR]</info>
+[COLOR orangered]|[/COLOR] - DESFRUTE DAS MARAVILHAS QUE O [COLOR red]KODIFLIX[/COLOR] TEM DE OFERECER - [COLOR orangered]|[/COLOR]</info>
 </channel>
 </channels>
 
