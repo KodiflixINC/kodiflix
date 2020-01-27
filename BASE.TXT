@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR oranged] YouTube[/COLOR]- [COLOR black] Music[/COLOR]</name>
+<name>[COLOR orangered]YouTube[/COLOR] - [COLOR black] Music[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_20200127/youtube_music.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801502.us.archive.org/30/items/fanart_20200127/youtube_fanart.jpg</fanart>
