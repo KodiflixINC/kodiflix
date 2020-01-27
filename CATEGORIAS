@@ -2,10 +2,10 @@
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR fuchsia]|||[/COLOR][COLOR dogerblue]|||[/COLOR] [COLOR azure]ANIMES[/COLOR] [COLOR dogerblue]|||[/COLOR][COLOR fuchsia]|||[/COLOR][COLOR red]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/fanart_/fanart_animes.jpg</thumbnail>
+<name>[COLOR aqua]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR azure]ANIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR aqua]|||[/COLOR]</name>
+<thumbnail>https://ia801407.us.archive.org/28/items/fanart_/animes.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://archive.org/download/fanart_/animes.png</fanart>
+<fanart>https://archive.org/download/fanart_/fanart_animes.jpg</fanart>
 <info>
 
 
@@ -24,7 +24,7 @@
 <info>
 
 
-[COLOR fuchsia]|[/COLOR] - OS MELHORES DESENHOS PARA OS PEQUENOS - [COLOR fuchsia]|[/COLOR]</info>
+[COLOR gold]|[/COLOR] - OS MELHORES DESENHOS PARA OS PEQUENOS - [COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -39,7 +39,7 @@
 <info>
 
 
-[COLOR fuchsia]|[/COLOR] - OS MELHORES FILMES COM ÓTIMA QUALIDADE DE IMAGEM E SOM - [COLOR fuchsia]|[/COLOR]</info>
+[COLOR gold]|[/COLOR] - OS MELHORES FILMES COM OTIMA QUALIDADE DE IMAGEM E SOM - [COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -54,7 +54,7 @@
 <info>
 
 
-[COLOR fuchsia]|[/COLOR] - AS MELHORES SERIES PARA PASSAR O DIA INTEIRO MARATONANDO - [COLOR fuchsia]|[/COLOR]</info>
+[COLOR gold]|[/COLOR] - AS MELHORES SERIES PARA PASSAR O DIA INTEIRO MARATONANDO - [COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
