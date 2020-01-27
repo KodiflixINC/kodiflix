@@ -1,0 +1,31 @@
+
+
+<channels>
+<channel>
+<name>[COLOR springgreen][B]SEJAM[/COLO][/B] [COLOR mediumspringgreenn][B]BEM VINDOS[/COLOR][/B]</name>
+<thumbnail>https://ia601502.us.archive.org/30/items/fanart_20200127/icon.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/download/fanart_20200127/fanart.jpg</fanart>
+<info>
+
+
+[COLOR red] - KODIFLIX[/COLOR] [COLOR blue]ainda está em suas versões de teste. Estamos trabalhando para podermos trazer o melhor que temos à te oferecer - [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR oranged]YouTube[/COLOR] - [COLOR black] Music[/COLOR]</name>
+<thumbnail>https://archive.org/download/fanart_20200127/youtube_music.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801502.us.archive.org/30/items/fanart_20200127/youtube_fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink] - Aqui está uma boa quantidade de coteúdo musical para "abalar" sua festa. Ainda estamos em andamento - [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
