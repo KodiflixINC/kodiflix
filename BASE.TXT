@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]YouTube[/COLOR] - [COLOR black] Music[/COLOR]</name>
-<thumbnail>https://archive.org/download/fanart_20200127/youtube_music.png</thumbnail>
+<name>[COLOR aqua]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR azure]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR aqua]|||[/COLOR]</name>
+<thumbnail>https://archive.org/download/fanart_20200127/icon.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801502.us.archive.org/30/items/fanart_20200127/youtube_fanart.jpg</fanart>
+<fanart>https://archive.org/download/fanart_20200127/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink] Aqui está uma boa quantidade de coteúdo musical para "abalar" sua festa. Ainda estamos em andamento [/COLOR]</info>
+[COLOR fuchsia]|[/COLOR] - DESFRUTE DAS MARAVILHAS QUE O [COLOR red]KODIFLIX[/COLOR] DE OFERECER - [COLOR fuchsia]|[/COLOR]</info>
 </channel>
 </channels>
 
