@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR aqua]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR azure]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR aqua]|||[/COLOR]</name>
+<name>[COLOR darkslateblue]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR azure]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR mediumspringgreen]|||[/COLOR][COLOR darkslateblue]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_20200127/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/fanart_20200127/fanart.jpg</fanart>
 <info>
 
 
-[COLOR fuchsia]|[/COLOR] - DESFRUTE DAS MARAVILHAS QUE O [COLOR red]KODIFLIX[/COLOR] DE OFERECER - [COLOR fuchsia]|[/COLOR]</info>
+[COLOR orangered]|[/COLOR] - DESFRUTE DAS MARAVILHAS QUE O [COLOR red]KODIFLIX[/COLOR] DE OFERECER - [COLOR orangered]|[/COLOR]</info>
 </channel>
 </channels>
 
