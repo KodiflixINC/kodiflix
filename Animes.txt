@@ -1787,9 +1787,9 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21
 #NARUTO#
 
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E1
-https://ns569568.ip-51-79-82.net/Uploads/Animes/N/naruto-classico-dublado/01.MP4
+https://s03.dattebane.com/stream/zRSYx9rgD8glIncnTueqTA/1583957347/NaruttebaneNDUB001.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E2
-https://ns569568.ip-51-79-82.net/Uploads/Animes/N/naruto-classico-dublado/02.MP4
+https://s03.dattebane.com/stream/zRSYx9rgD8glIncnTueqTA/1583957347/NaruttebaneNDUB002.mp4
 
 #NULL & PETA#
 
