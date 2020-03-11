@@ -1787,25 +1787,25 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21
 #NARUTO#
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E1
-http://cdn02.fluehost.com/d/naruto-classico/sd/01.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/01.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E2
-http://cdn02.fluehost.com/d/naruto-classico/sd/02.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/02.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E3
-http://cdn02.fluehost.com/d/naruto-classico/sd/03.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/03.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E4
-http://cdn02.fluehost.com/d/naruto-classico/sd/04.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/04.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E5
-http://cdn02.fluehost.com/d/naruto-classico/sd/05.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/05.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E6
-http://cdn02.fluehost.com/d/naruto-classico/sd/06.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/06.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E7
-http://cdn02.fluehost.com/d/naruto-classico/sd/07.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/07.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E8
-http://cdn02.fluehost.com/d/naruto-classico/sd/08.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/08.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E9
-http://cdn02.fluehost.com/d/naruto-classico/sd/09.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/09.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E10
-http://cdn02.fluehost.com/d/naruto-classico/sd/10.mp4
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/10.MP4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E11
 http://cdn02.fluehost.com/d/naruto-classico/sd/11.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E12
