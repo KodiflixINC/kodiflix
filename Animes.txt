@@ -1787,7 +1787,7 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21
 #NARUTO#
 
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E1
-https://s03.dattebane.com/stream/zRSYx9rgD8glIncnTueqTA/1583957347/NaruttebaneNDUB001.mp4
+https://proxy-20.nyc.dailymotion.com/sec(jXl_r_CZ7rKteLo7P67RkE6YyupobrmervCtuOSHivs37bzboCaKexhqigWNanT7WBoar7-v8MyUZnw7slriniAaDMJAf_OxZcKNd19a9XY)/video/691/663/458366196_mp4_h264_aac_hd.m3u8#cell=nyc&qos_part=1&qos_geostore=1
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E2
 https://s03.dattebane.com/stream/zRSYx9rgD8glIncnTueqTA/1583957347/NaruttebaneNDUB002.mp4
 
