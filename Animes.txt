@@ -1784,25 +1784,6 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/20
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/nanatsu-no-taizai-3-d-temporada.webp" group-title="Nanatsu no Taizai" ,Nanatsu no Taizai T3:E21
 http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21-hd.mp4
 
-#NARUTO#
-
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E1
-https://cld.pt/dl/download/7a7645ec-0df3-48b4-8375-9a6c6fe068d8/Naruto%20Cl%C3%A1ssico%20Ep.1%20Completo%20Dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E2
-https://cld.pt/dl/download/76b46f2f-9672-4800-88d8-180903af9d51/Naruto%20Cl%C3%A1ssico%20Ep.2%20Completo%20Dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E3
-https://cld.pt/dl/download/cd17d321-aea9-4917-880a-2af0611da2ae/Naruto%20Cl%C3%A1ssico%20ep.3%20completo%20dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E4
-https://cld.pt/dl/download/efffe9a7-8d58-4156-b1fe-b4a575f07a40/Naruto%20Cl%C3%A1ssico%20Ep.4%20Completo%20Dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E5
-https://cld.pt/dl/download/ad57215f-06f1-4eab-bd1a-c797738e31b7/Naruto%20Cl%C3%A1ssico%20Ep.5%20Completo%20Dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E6
-https://cld.pt/dl/download/6440e2d4-b4be-4904-9075-482ca5db7460/Naruto%20Cl%C3%A1ssico%20Ep.6%20Completo%20Dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E7
-https://cld.pt/dl/download/d3c8f284-0bbc-40d7-bb23-4a0ad41af470/Naruto%20Cl%C3%A1ssico%20Ep.7%20Completo%20Dublado.mp4
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E8
-https://cld.pt/dl/download/0963a54a-4281-4fbb-bdd5-edbd5431d62e/Naruto%20Cl%C3%A1ssico%20Ep.8%20Completo%20Dublado.mp4
-
 #NULL & PETA#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/null-peta.webp" group-title="Null & Peta" ,Null & Peta T1:E1
