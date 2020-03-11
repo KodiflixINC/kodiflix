@@ -1796,6 +1796,8 @@ https://cld.pt/dl/download/24468044-08ad-4043-b7fc-9941b2eccfbe/Naruto%20Cl%C3%A
 https://cld.pt/dl/download/efffe9a7-8d58-4156-b1fe-b4a575f07a40/Naruto%20Cl%C3%A1ssico%20Ep.4%20Completo%20Dublado.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E5
 https://cld.pt/dl/download/ad57215f-06f1-4eab-bd1a-c797738e31b7/Naruto%20Cl%C3%A1ssico%20Ep.5%20Completo%20Dublado.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E6
+https://cld.pt/dl/download/6440e2d4-b4be-4904-9075-482ca5db7460/Naruto%20Cl%C3%A1ssico%20Ep.6%20Completo%20Dublado.mp4
 
 #NULL & PETA#
 
