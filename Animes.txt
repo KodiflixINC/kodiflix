@@ -1784,6 +1784,11 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/20
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/nanatsu-no-taizai-3-d-temporada.webp" group-title="Nanatsu no Taizai" ,Nanatsu no Taizai T3:E21
 http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21-hd.mp4
 
+#NARUTO#
+
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E1
+https://ns569461.ip-51-79-82.net/N/naruto-classico-dublado/01.MP4
+
 #NULL & PETA#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/null-peta.webp" group-title="Null & Peta" ,Null & Peta T1:E1
