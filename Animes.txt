@@ -1832,6 +1832,66 @@ http://cdn02.fluehost.com/d/naruto-classico/sd/21.mp4
 http://cdn02.fluehost.com/d/naruto-classico/sd/22.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E23
 http://cdn02.fluehost.com/d/naruto-classico/sd/23.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E24
+http://cdn02.fluehost.com/d/naruto-classico/sd/24.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/YOy0lZBAL2lvDYnzSzHeCVFtn74=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-1a-temporada_t10150_9.jpg" group-title="Naruto" ,Naruto T1:E25
+http://cdn02.fluehost.com/d/naruto-classico/sd/25.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E26
+http://cdn02.fluehost.com/d/naruto-classico/sd/26.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E27
+http://cdn02.fluehost.com/d/naruto-classico/sd/27.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E28
+http://cdn02.fluehost.com/d/naruto-classico/sd/28.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E29
+http://cdn02.fluehost.com/d/naruto-classico/sd/29.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E30
+http://cdn02.fluehost.com/d/naruto-classico/sd/30.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E31
+http://cdn02.fluehost.com/d/naruto-classico/sd/31.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E32
+http://cdn02.fluehost.com/d/naruto-classico/sd/32.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E33
+http://cdn02.fluehost.com/d/naruto-classico/sd/33.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E34
+http://cdn02.fluehost.com/d/naruto-classico/sd/34.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E35
+http://cdn02.fluehost.com/d/naruto-classico/sd/35.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E36
+http://cdn02.fluehost.com/d/naruto-classico/sd/36.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E37
+http://cdn02.fluehost.com/d/naruto-classico/sd/37.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E38
+http://cdn02.fluehost.com/d/naruto-classico/sd/38.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E39
+http://cdn02.fluehost.com/d/naruto-classico/sd/39.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E40
+http://cdn02.fluehost.com/d/naruto-classico/sd/40.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E41
+http://cdn02.fluehost.com/d/naruto-classico/sd/41.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E42
+http://cdn02.fluehost.com/d/naruto-classico/sd/42.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E43
+http://cdn02.fluehost.com/d/naruto-classico/sd/43.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E44
+http://cdn02.fluehost.com/d/naruto-classico/sd/44.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E45
+http://cdn02.fluehost.com/d/naruto-classico/sd/45.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E46
+http://cdn02.fluehost.com/d/naruto-classico/sd/46.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E47
+http://cdn02.fluehost.com/d/naruto-classico/sd/47.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E48
+http://cdn02.fluehost.com/d/naruto-classico/sd/48.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E49
+http://cdn02.fluehost.com/d/naruto-classico/sd/49.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E50
+http://cdn02.fluehost.com/d/naruto-classico/sd/50.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E51
+http://cdn02.fluehost.com/d/naruto-classico/sd/51.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/srgG3RPn1MjmTeWt9Es19a-WeD0=/fit-in/290x478/smart/media/movies/covers/2014/11/naruto-2a-temporada_t26197_1.jpg" group-title="Naruto" ,Naruto T2:E52
+http://cdn02.fluehost.com/d/naruto-classico/sd/52.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710595_4bbffb5f8f.jpg" group-title="Naruto" ,Naruto T3:E53
+http://cdn02.fluehost.com/d/naruto-classico/sd/53.mp4
 
 #NULL & PETA#
 
