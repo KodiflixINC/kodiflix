@@ -1942,6 +1942,58 @@ https://www.animeson.club/naruto-classico-dublado/24174.mp4
 https://www.animeson.club/naruto-classico-dublado/24176.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710595_4bbffb5f8f.jpg" group-title="Naruto" ,Naruto T3:E78
 https://www.animeson.club/naruto-classico-dublado/24178.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E79
+https://www.animeson.club/naruto-classico-dublado/24180.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E80
+https://www.animeson.club/naruto-classico-dublado/24182.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E81
+https://www.animeson.club/naruto-classico-dublado/24184.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E82
+https://www.animeson.club/naruto-classico-dublado/24186.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E83
+https://www.animeson.club/naruto-classico-dublado/24188.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E84
+https://www.animeson.club/naruto-classico-dublado/24190.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E85
+https://www.animeson.club/naruto-classico-dublado/24192.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E86
+https://www.animeson.club/naruto-classico-dublado/24194.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E87
+https://www.animeson.club/naruto-classico-dublado/24196.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E88
+https://www.animeson.club/naruto-classico-dublado/24198.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E89
+https://www.animeson.club/naruto-classico-dublado/24200.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E90
+https://www.animeson.club/naruto-classico-dublado/24202.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E91
+https://www.animeson.club/naruto-classico-dublado/24204.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E92
+https://www.animeson.club/naruto-classico-dublado/24206.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E93
+https://www.animeson.club/naruto-classico-dublado/24208.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E94
+https://www.animeson.club/naruto-classico-dublado/24210.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E95
+https://www.animeson.club/naruto-classico-dublado/24212.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E96
+https://www.animeson.club/naruto-classico-dublado/24214.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E97
+https://www.animeson.club/naruto-classico-dublado/24216.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E98
+https://www.animeson.club/naruto-classico-dublado/24218.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E99
+https://www.animeson.club/naruto-classico-dublado/24220.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E100
+https://www.animeson.club/naruto-classico-dublado/24222.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E101
+https://www.animeson.club/naruto-classico-dublado/24224.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E102
+https://www.animeson.club/naruto-classico-dublado/24226.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E103
+https://www.animeson.club/naruto-classico-dublado/24228.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E104
+https://www.animeson.club/naruto-classico-dublado/24230.mp4
 
 #NULL & PETA#
 
