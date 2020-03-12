@@ -1786,7 +1786,21 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21
 
 #NARUTO#
 
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto Teste
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E1
+https://cld.pt/dl/download/64ebefc8-00e9-417f-bf61-d1814b9129f6/ep_1.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E2
+https://cld.pt/dl/download/f79788d6-9c7c-48a7-9d7d-009e5128c86d/ep_2.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E3
+https://cld.pt/dl/download/9ee58a55-58c5-4b89-b4a8-bd53033b1304/ep_3.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E4
+https://cld.pt/dl/download/52e5471d-4f3c-4601-8850-18956f9a4970/ep_4.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E5
+https://cld.pt/dl/download/565cc58e-1574-4410-94b6-e2375d6a006b/ep_5.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E6
+https://cld.pt/dl/download/484d915a-7a51-4551-8b98-cf95c185188f/ep_6.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E7
+https://cld.pt/dl/download/188e9ccc-39b1-4ff0-99bb-8e9fa47914d4/ep_7.mp4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E8
 https://www.animeson.club/naruto-classico-dublado/24038.mp4
 
 #NULL & PETA#
