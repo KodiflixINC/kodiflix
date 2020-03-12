@@ -1786,8 +1786,8 @@ http://sv02.crius.feralhosting.com/a/nanatsu-no-taizai-kamigami-no-gekirin/hd/21
 
 #NARUTO#
 
-#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E1
-https://s3.eu-central-1.wasabisys.com/ovh03/N/naruto-classico-dublado/01.MP4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto Teste
+https://www.animeson.club/naruto-classico-dublado/24038.mp4
 
 #NULL & PETA#
 
