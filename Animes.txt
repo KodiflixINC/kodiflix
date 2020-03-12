@@ -1,5 +1,20 @@
 #EXTM3U
 
+#FILMES#
+
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/boku-no-hero-academia-dois-hery-is-2-d-filme-.webp" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
+http://cdn01.fluehost.com/f/boku-no-hero-2-herois/hd.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super-broly.webp" group-title="#FILMES#" ,Dragon Ball Super: Broly
+http://cdn01.fluehost.com/f/dragon-ball-super-broly-dub/dragon-ball-super-broly-hd.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg-Ey-LvfhJafwu2KXm_ix9mKc3x4eSLJ3pHUxFh1eAm8eNyDf" group-title="#FILMES#" ,Meu Amigo Tororó
+https://ns570902.ip-51-161-15.net/Uploads/Filmes/T/tonari-no-totoro-dublado/filme-01.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="#FILMES#" ,Os Sete Pecados Capitais: Prisioneiros dos Céus
+http://cdn01.fluehost.com/f/Nanatsu-no-Taizai-Movie-Tenkuu-no-Torawarebito-HD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg" group-title="#FILMES#" ,The Last - Naruto o Filme
+https://ns570902.ip-51-161-15.net/Uploads/Filmes/T/the-last-naruto-the-movie-dublado/filme-01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq1Ugd62d23K2knRUx6xxuALTZB.jpg" group-title="#FILMES#" ,Your Name
+https://ns570902.ip-51-161-15.net/Uploads/Filmes/K/kimi-no-na-wa-dublado/filme-01.mp4
+
 #ABSOLUTE DUO#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E1
