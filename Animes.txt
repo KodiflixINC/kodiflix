@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-shippuuden-portuguy-s-de-portugual.webp" group-title="Naruto Shippuden" ,Naruto Shippuden TESTE
-http://cdn03.fluehost.com/a/naruto-shippuden/hd/01.mp4
-
 #FILMES#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/boku-no-hero-academia-dois-hery-is-2-d-filme-.webp" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
@@ -1821,7 +1818,7 @@ https://cld.pt/dl/download/484d915a-7a51-4551-8b98-cf95c185188f/ep_6.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E7
 https://cld.pt/dl/download/188e9ccc-39b1-4ff0-99bb-8e9fa47914d4/ep_7.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E8
-https://www.animeson.club/naruto-classico-dublado/24038.mp4
+https://cld.pt/dl/download/bd178dda-3c1d-4108-a26b-dc49ffe49085/ep_8.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E9
 https://cld.pt/dl/download/9d28ed17-0fe2-4836-83a9-ae551ec303c8/ep_9.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710593_b02ab66f33.jpg" group-title="Naruto" ,Naruto T1:E10
