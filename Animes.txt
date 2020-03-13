@@ -2244,6 +2244,111 @@ https://www.animeson.club/naruto-classico-dublado/24462.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1712/1712577_df0da12604.jpg" group-title="Naruto" ,Naruto T9:E220
 https://www.animeson.club/naruto-classico-dublado/24464.mp4
 
+#NARUTO SD: ROCK LEE#
+
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E1
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/01.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E2
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/02.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E3
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/03.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E4
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/04.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E5
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/05.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E6
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/06.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E7
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/07.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E8
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/08.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E9
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/09.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E10
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/10.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E11
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/11.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E12
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/12.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E13
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/13.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E14
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/14.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E15
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/15.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E16
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/16.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E17
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/17.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E18
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/18.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E19
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/19.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E20
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/20.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E21
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/21.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E22
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/22.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E23
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/23.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E24
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/24.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E25
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/25.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T1:E26
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/26.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E27
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/27.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E28
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/28.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E29
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/29.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E30
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/30.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E31
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/31.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E32
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/32.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E33
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/33.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E34
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/34.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E35
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/35.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E36
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/36.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E37
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/37.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E38
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/38.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E39
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/39.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E40
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/40.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E41
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/41.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E42
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/42.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E43
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/43.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E44
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/44.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E45
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/45.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E46
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/46.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E47
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/47.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E48
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/48.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E49
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/49.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E50
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/50.mp4
+#EXTINF:-1 tvg-logo="https://www.superanimes.tv/img/lista-de-animes/N/assistir-Naruto-SD-Rock-Lee-todos-os-episodios-online.jpg" group-title="Naruto SD: Rock Lee" ,Naruto SD: Rock Lee T2:E51
+http://cdn02.fluehost.com/a/naruto-sd-rock-lee/sd/51.mp4
+
 #NULL & PETA#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/null-peta.webp" group-title="Null & Peta" ,Null & Peta T1:E1
