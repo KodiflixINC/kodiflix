@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/naruto-shippuuden-portuguy-s-de-portugual.webp" group-title="Naruto Shippuden" ,Naruto Shippuden TESTE
+http://cdn02.fluehost.com/d/naruto-shippuuden-portugual/sd/01.MP4
+
 #FILMES#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/boku-no-hero-academia-dois-hery-is-2-d-filme-.webp" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
