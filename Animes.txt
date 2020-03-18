@@ -706,6 +706,271 @@ http://cdn02.fluehost.com/d/dragon-ball/sd/152.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaHCs2KnVEevCMlRErQEeaemkc4KIydgGpzkkaXj-kvSRkmKbs" group-title="Dragon Ball" ,Dragon Ball T5:E153
 http://cdn02.fluehost.com/d/dragon-ball/sd/153.MP4
 
+#DRAGON BALL SUPER#
+
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E1
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/01.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E2
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/02.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E3
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/03.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E4
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/04.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E5
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/05.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E6
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/06.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E7
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/07.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E8
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/08.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E9
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/09.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E10
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/10.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E11
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/11.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E12
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/12.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E13
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/13.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E14
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/14.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E15
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/15.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E16
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/16.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E17
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/17.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E18
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/18.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E19
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/19.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E20
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/20.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E21
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/21.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E22
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/22.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E23
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/23.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E24
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/24.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E25
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/25.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E26
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/26.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E27
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/27.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E28
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/28.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E29
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/29.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E30
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/30.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E31
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/31.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E32
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/32.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E33
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/33.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E34
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/34.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E35
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/35.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E36
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/36.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E37
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/37.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E38
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/38.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E39
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/39.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E40
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/40.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E41
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/41.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E42
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/42.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E43
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/43.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E44
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/44.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E45
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/45.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E46
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/46.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E47
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/47.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E48
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/48.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E49
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/49.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E50
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/50.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E51
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/51.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E52
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/52.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E53
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/53.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E54
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/54.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E55
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/55.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E56
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/56.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E57
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/57.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E58
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/58.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E59
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/59.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E60
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/60.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E61
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/61.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E62
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/62.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E63
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/63.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E64
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/64.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E65
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/65.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E66
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/66.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E67
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/67.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E68
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/68.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E69
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/69.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E70
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/70.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E71
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/71.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E72
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/72.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E73
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/73.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E74
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/74.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E75
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/75.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E76
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/76.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E77
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/77.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E78
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/78.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E79
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/79.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E80
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/80.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E81
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/81.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E82
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/82.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E83
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/83.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E84
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/84.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E85
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/85.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E86
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/86.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E87
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/87.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E88
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/88.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E89
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/89.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E90
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/90.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E91
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/91.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E92
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/92.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E93
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/93.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E94
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/94.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E95
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/95.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E96
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/96.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E97
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/97.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E98
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/98.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E99
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/99.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E100
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/100.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E101
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/101.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E102
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/102.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E103
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/103.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E104
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/104.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E105
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/105.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E106
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/106.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E107
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/107.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E108
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/108.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E109
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/109.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E110
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/110.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E111
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/111.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E112
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/112.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E113
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/113.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E114
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/114.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E115
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/115.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E116
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/116.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E117
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/117.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E118
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/118.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E119
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/119.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E120
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/120.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E121
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/121.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E122
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/122.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E123
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/123.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E124
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/124.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E125
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/125.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E126
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/126.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E127
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/127.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E128
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/128.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E129
+http://cdn02.fluehost.com/d/dragon-ball-super/sd/129.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E130
+https://cld.pt/dl/download/b88ff9dd-2832-4ec9-9c13-f87417040311/dbs_130.mp4
+#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E131
+https://cld.pt/dl/download/cc66c908-1703-424f-8935-7ae74c24a758/dbs_131.mp4
+
 #DRAGON BALL Z#
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHHKdGcFa8MJUqM5wZrlybMmTYqMEKwu1DNxaSZWKQyiepwXbh" group-title="Dragon Ball Z" ,Dragon Ball Z T1:E1
