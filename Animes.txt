@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/boku-no-hero-academia-dois-hery-is-2-d-filme-.webp" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
 http://cdn01.fluehost.com/f/boku-no-hero-2-herois/hd.mp4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super-broly.webp" group-title="#FILMES#" ,Dragon Ball Super: Broly
-http://cdn01.fluehost.com/f/dragon-ball-super-broly-dub/dragon-ball-super-broly-hd.mp4
+https://ns565646.ip-51-79-16.net/Uploads/Animes/D/dragon-ball-super-dublado/filme-1-broly.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg-Ey-LvfhJafwu2KXm_ix9mKc3x4eSLJ3pHUxFh1eAm8eNyDf" group-title="#FILMES#" ,Meu Amigo Tororó
 https://ns570902.ip-51-161-15.net/Uploads/Filmes/T/tonari-no-totoro-dublado/filme-01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="#FILMES#" ,Os Sete Pecados Capitais: Prisioneiros dos Céus
