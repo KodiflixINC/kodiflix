@@ -2529,6 +2529,8 @@ https://ns569461.ip-51-79-82.net/S/sailor-moon-dublado/46.MP4
 
 #EXTINF:-1 tvg-logo="https://4icdn.com/img/animes/qv48-large.jpg" group-title="Sailor Moon R" ,Sailor Moon R T2:E1
 https://cld.pt/dl/download/6f5eaf90-675e-4b6f-b91c-76ad4141e510/Sailor%20Moon%20R%201.mp4
+#EXTINF:-1 tvg-logo="https://4icdn.com/img/animes/qv48-large.jpg" group-title="Sailor Moon R" ,Sailor Moon R T2:E2
+https://cld.pt/dl/download/cc04398b-fcf7-404e-b4c5-675bbb115153/Sailor%20Moon%20R%202.mp4
 
 #SETOKAI NO ICHIZON#
 
