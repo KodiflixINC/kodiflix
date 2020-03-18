@@ -1962,7 +1962,7 @@ https://cld.pt/dl/download/16d55aef-1dfb-48bd-a4d6-848a78110216/ep_76.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710595_4bbffb5f8f.jpg" group-title="Naruto" ,Naruto T3:E77
 https://cld.pt/dl/download/f9fee53d-9729-4930-b067-5ff23994c4e8/ep_77.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710595_4bbffb5f8f.jpg" group-title="Naruto" ,Naruto T3:E78
-https://www.animeson.club/naruto-classico-dublado/24178.mp4
+https://cld.pt/dl/download/45ba176c-5306-4bd6-bd8f-2688519f6c24/ep_78.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E79
 https://www.animeson.club/naruto-classico-dublado/24180.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E80
