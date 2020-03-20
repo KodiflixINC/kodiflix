@@ -723,7 +723,7 @@ https://server2.anitube.info/appsd/55162.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E7
 https://server3.anitube.info/appsd/55164.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E8
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/08.mp4
+https://server12.anitube.info/appsd/55165.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E9
 http://cdn02.fluehost.com/d/dragon-ball-super/sd/09.mp4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E10
