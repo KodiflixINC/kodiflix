@@ -2277,7 +2277,7 @@ https://cld.pt/dl/download/51c17180-5b34-4262-9ffc-6aed6969cc55/ep_99.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E100
 https://cld.pt/dl/download/a680c808-2b0c-45ba-94f1-4740e3d2ceb1/ep_100.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E101
-https://pitou.goyabu.com/naruto-classico-dublado/101.mp4
+https://cld.pt/dl/download/47c17fd9-dd48-40a3-8b11-cd22712f635c/ep_101.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E102
 https://cld.pt/dl/download/8d461b13-e003-47ff-85ff-9211ce9fc4ca/ep_102.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710596_faa62c20c2.jpg" group-title="Naruto" ,Naruto T4:E103
