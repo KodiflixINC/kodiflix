@@ -719,11 +719,11 @@ https://api.animesgratisbr.com/video/26
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E3
 https://api.animesgratisbr.com/video/27
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E4
-https://server4.anitube.info/appsd/55161.mp4/chunk.m3u8
+https://api.animesgratisbr.com/video/28
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E5
-https://server8.anitube.info/appsd/55161.mp4/chunk.m3u8
+https://api.animesgratisbr.com/video/29
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E6
-https://server2.anitube.info/appsd/55162.mp4/chunk.m3u8
+https://api.animesgratisbr.com/video/30
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E7
 https://server3.anitube.info/appsd/55164.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E8
