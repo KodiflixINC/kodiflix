@@ -795,25 +795,25 @@ https://api.animesgratisbr.com/video/73
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E40
 https://api.animesgratisbr.com/video/74
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E41
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/41.mp4
+https://api.animesgratisbr.com/video/75
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E42
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/42.mp4
+https://api.animesgratisbr.com/video/76
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E43
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/43.mp4
+https://api.animesgratisbr.com/video/77
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E44
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/44.mp4
+https://api.animesgratisbr.com/video/78
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E45
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/45.mp4
+https://api.animesgratisbr.com/video/79
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E46
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/46.mp4
+https://api.animesgratisbr.com/video/80
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E47
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/47.mp4
+https://api.animesgratisbr.com/video/81
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E48
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/48.mp4
+https://api.animesgratisbr.com/video/82
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E49
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/49.mp4
+https://api.animesgratisbr.com/video/83
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E50
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/50.mp4
+https://api.animesgratisbr.com/video/84
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E51
 http://cdn02.fluehost.com/d/dragon-ball-super/sd/51.mp4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E52
