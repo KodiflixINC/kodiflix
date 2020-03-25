@@ -841,19 +841,19 @@ https://api.animesgratisbr.com/video/169
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E63
 https://api.animesgratisbr.com/video/170
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E64
-https://api.animesgratisbr.com/video/98
+https://api.animesgratisbr.com/video/171
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E65
-https://api.animesgratisbr.com/video/99
+https://api.animesgratisbr.com/video/172
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E66
-https://api.animesgratisbr.com/video/100
+https://api.animesgratisbr.com/video/173
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E67
-https://api.animesgratisbr.com/video/101
+https://api.animesgratisbr.com/video/174
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E68
-https://api.animesgratisbr.com/video/102
+https://api.animesgratisbr.com/video/175
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E69
-https://api.animesgratisbr.com/video/103
+https://api.animesgratisbr.com/video/176
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E70
-https://api.animesgratisbr.com/video/104
+https://api.animesgratisbr.com/video/177
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E71
 http://cdn02.fluehost.com/d/dragon-ball-super/sd/71.mp4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E72
