@@ -1,4 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.mmfilmes.tv/wp-content/uploads/2020/02/1691494.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="F" ,Frozen 2
-https://ia601503.us.archive.org/24/items/frozen2_dublado_2019/Frozen%202.mp4?cnt=0
+https://ia601503.us.archive.org/24/items/frozen2_dublado_2019/Frozen%202.mp4
+
+#FILMES: P#
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPiTImZ2gPeMoVKjpBrtKZbo_QHU7SvX8pt6G12Tc3KG_vU1vc" group-title="P" ,Pokémon: Detetive Pikachu
+https://ia802800.us.archive.org/13/items/detetivepikachunokodiflix/Assistir%20Filme%20Pok%C3%A9mon%20Detetive%20Pikachu%20Online.mp4
