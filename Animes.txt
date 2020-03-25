@@ -855,11 +855,11 @@ https://api.animesgratisbr.com/video/176
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E70
 https://api.animesgratisbr.com/video/177
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E71
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/71.mp4
+https://api.animesgratisbr.com/video/342
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E72
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/72.mp4
+https://api.animesgratisbr.com/video/343
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E73
-http://cdn02.fluehost.com/d/dragon-ball-super/sd/73.mp4
+https://api.animesgratisbr.com/video/344
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E74
 http://cdn02.fluehost.com/d/dragon-ball-super/sd/74.mp4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E75
