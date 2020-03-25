@@ -761,19 +761,19 @@ https://api.animesgratisbr.com/video/56
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E23
 https://api.animesgratisbr.com/video/57
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E24
-https://api.animesgratisbr.com/video/48
+https://api.animesgratisbr.com/video/58
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E25
-https://api.animesgratisbr.com/video/49
+https://api.animesgratisbr.com/video/59
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E26
-https://api.animesgratisbr.com/video/50
+https://api.animesgratisbr.com/video/60
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E27
-https://api.animesgratisbr.com/video/51
+https://api.animesgratisbr.com/video/61
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E28
-https://api.animesgratisbr.com/video/52
+https://api.animesgratisbr.com/video/72
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E29
-https://api.animesgratisbr.com/video/53
+https://api.animesgratisbr.com/video/63
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E30
-https://api.animesgratisbr.com/video/54
+https://api.animesgratisbr.com/video/64
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E31
 http://cdn02.fluehost.com/d/dragon-ball-super/sd/31.mp4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball-super.webp" group-title="Dragon Ball Super" ,Dragon Ball Super T1:E32
