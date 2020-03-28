@@ -43,7 +43,24 @@
 <info>
 
 
-[COLOR cyan]Pixanimes, desfrute dos melhores animes dublado e legendado. Todos os animes são de fácil acesso na internet, semanalmente novos animes serão postos.[/COLOR]</info>
+[COLOR cyan]Pixanimes, desfrute dos melhores animes dublado e legendado. Todos os animes são de fácil acesso na internet, semanalmente novos animes serão adicionados.[/COLOR]</info>
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[B][COLOR blue]-[/COLOR] PIXFILMES [COLOR blue]-[/COLOR][/B]</name>
+<thumbnailhttps://ia601408.us.archive.org/21/items/i_6791340/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiflixINC/kodiflix/master/ESCOLHER%20ANIME</externallink>
+<fanart>https://ia801408.us.archive.org/33/items/pbl_addon.8091/fanart.jpg</fanart>
+<info>
+
+
+[COLOR cyan]Pixfilmes, desfrute dos melhores filmes. Todos os filmes são de fácil acesso na internet, semanalmente novos filmes serão adicionados.[/COLOR]</info>
 </channel>
 </channels>
 
