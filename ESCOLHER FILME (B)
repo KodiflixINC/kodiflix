@@ -9,7 +9,7 @@
 
 ﻿<item>
 <title>[B]Bloodshot [COLOR yellow]|IMDB: 5.7|[/COLOR][/B]</title>
-<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;https://drive.google.com/file/d/1x7Zga6NxE4TWVuYWpQjA_6bNHcmLQNUu/view?usp=drivesdk</link></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;https://drive.google.com/file/d/1x7Zga6NxE4TWVuYWpQjA_6bNHcmLQNUu/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9OpmByatUpjM2Lu6FvAZCwPju8K.jpg</fanart>
 <info>[COLOR cyan]Ray Garrison, um soldado morto, é re-animado com super poderes.[/COLOR]</info>
