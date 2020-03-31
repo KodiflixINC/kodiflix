@@ -2,41 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR gold]-[/COLOR] BEM VINDO [COLOR gold]-[/COLOR][/B]</name>
-<thumbnail>https://ia601508.us.archive.org/28/items/pixconteudo_20208/icon.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801508.us.archive.org/28/items/pixconteudo_20208/fanart.jpg</fanart>
-<info>
-
-
-[COLOR cyan]No Pixconteúdo você encontra conteúdo de todos os tipos, filmes, séries, animes, novelas em ótima qualidade, e o melhor, tudo grátis![/COLOR]</info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[B][COLOR blue]<<<<<<<<<<<<<<<<<<<<<<<<<[/COLOR][/B]</name>
-<thumbnail>https://ia601508.us.archive.org/28/items/pixconteudo_20208/icon.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801508.us.archive.org/28/items/pixconteudo_20208/fanart.jpg</fanart>
-<info>
-
-
-</info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[B][COLOR blue]-[/COLOR] PIXANIMES [COLOR blue]-[/COLOR][/B]</name>
+<name>[B][COLOR blue]●[/COLOR]PIXANIMES[/B]</name>
 <thumbnail>https://ia801408.us.archive.org/33/items/pbl_addon.8091/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiflixINC/kodiflix/master/ESCOLHER%20ANIME</externallink>
 <fanart>https://ia801408.us.archive.org/33/items/pbl_addon.8091/fanart.jpg</fanart>
@@ -53,7 +19,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue]-[/COLOR] PIXFILMES [COLOR blue]-[/COLOR][/B]</name>
+<name>[B][COLOR blue]●[/COLOR]PIXFILMES[/B]</name>
 <thumbnail>https://ia601408.us.archive.org/21/items/i_6791340/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiflixINC/kodiflix/master/CATEGORIA_FILMES</externallink>
 <fanart>https://ia801408.us.archive.org/21/items/i_6791340/fanart.jpg</fanart>
