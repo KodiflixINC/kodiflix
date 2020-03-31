@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue]●[/COLOR]PIXANIMES[/B]</name>
+<name>[B][COLOR firebrick]●[/COLOR] PIXANIMES[/B]</name>
 <thumbnail>https://ia801408.us.archive.org/33/items/pbl_addon.8091/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiflixINC/kodiflix/master/ESCOLHER%20ANIME</externallink>
 <fanart>https://ia801408.us.archive.org/33/items/pbl_addon.8091/fanart.jpg</fanart>
@@ -19,7 +19,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue]●[/COLOR]PIXFILMES[/B]</name>
+<name>[B][COLOR firebrick]●[/COLOR] PIXFILMES[/B]</name>
 <thumbnail>https://ia601408.us.archive.org/21/items/i_6791340/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiflixINC/kodiflix/master/CATEGORIA_FILMES</externallink>
 <fanart>https://ia801408.us.archive.org/21/items/i_6791340/fanart.jpg</fanart>
