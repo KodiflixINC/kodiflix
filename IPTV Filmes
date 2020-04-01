@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,Teste
-https://pouch.jumpshare.com/preview/hHHJkCOR3UktWRqdJGk2mP_D1V2Flo8fibJtxhWrQaZIYXCbC7lPR0xAyGHb9NHY_ACy2B2pN2BAuBEyKUX53WEAbIrAWtEIphLE1rq7ctSswPbg2xLxGksaRZEpMoBmo398gwjbMlquPRq8RxdZ-w.mp4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i0_4nQP3DToIkPynZ3foQQ8tJnd0Pc-O/view?usp=drivesdk
 
 #B#
 
