@@ -1,7 +1,13 @@
 #EXTM3U
 
+#B#
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cqQUA7h58M0PG5TqNfPyqEweebp.jpg" group-title="B" ,Bob Esponja: Um Herói Fora D'água
 https://cld.pt/dl/download/d38fba8b-330b-407c-8f62-a1849b8c6901/pixconteudo_bob_esponja_um_heroi_fora_dagua.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="B" ,
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="B" ,Bloodshot
 https://cld.pt/dl/download/ebd6aace-0204-4d1e-b18d-f54ef9857d9a/pixconteudo_bloodshot.mp4
+
+#M#
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Z7o8hMbwQ2BkWhsg7oACCIhdK4.jpg" group-title="M" ,Modo Avião
+https://ia902806.us.archive.org/21/items/larissa.filme.2020.novo/larissa.%20filme.%202020.%20novo.mp4
