@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/boku-no-hero-academia-dois-hery-is-2-d-filme-.webp" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
 http://cdn01.fluehost.com/f/boku-no-hero-2-herois/hd.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jDPW52j5xNnDoIQBvMhaXLHvlcR.jpg" group-title="#FILMES#" ,Dragon Ball Super: Broly
-http://cdn01.fluehost.com/f/dragon-ball-super-broly-dub/dragon-ball-super-broly-hd.mp4
+https://ns570902.ip-51-161-15.net/Uploads/Filmes/D/dragon-ball-super-movie-broly/filme-01.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK-rAx2acAZTHsAxB1UJhoxiW9Eh0UQX3j1ehtWi28irKBJHq8" group-title="#FILMES#" ,Dragon Ball Z: Broly, O Lendário Super Saiyajin
 https://cld.pt/dl/download/aedd90be-fa91-41cf-b34d-7bf4597fe068/dragon_ball_z_broly_o_lendario_super_saiyajin.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR47C4I0-PKzLtQu9IpZdFfXczNkYXmcM2duTm0Qc2-USHXnWyC" group-title="#FILMES#" ,Dragon Ball Z: O Combate Final, Bio-Broly
