@@ -1,4 +1,11 @@
 #EXTM3U
 
+#FILMES: B#
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cqQUA7h58M0PG5TqNfPyqEweebp.jpg" group-title="B" ,Bob Esponja: Um Herói Fora D'Água
+https://forja3.animesvision.biz/play/Msk2cq1jg3-3pCGU5y7dGg/1585847354/BHyPxbUJoJKTSOx6rJme/altaforja/Cartoons/B/Bob_Esponja_Um_Heroi_Fora_DAgua/720p/AnV-01.mp4
+
+#FILMES: F#
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h6Wi81XNXCjTAcdstiCLRykN3Pa.jpg" group-title="F" ,Frozen 2
 https://cld.pt/dl/download/70928db9-c108-4199-b2c1-20092264b0f6/Frozen_2.mp4
