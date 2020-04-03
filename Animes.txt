@@ -2,7 +2,7 @@
 
 #FILMES#
 
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/boku-no-hero-academia-dois-hery-is-2-d-filme-.webp" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg" group-title="#FILMES#" ,Boku No Hero Academia: Os Dois Heróis
 http://cdn01.fluehost.com/f/boku-no-hero-2-herois/hd.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jDPW52j5xNnDoIQBvMhaXLHvlcR.jpg" group-title="#FILMES#" ,Dragon Ball Super: Broly
 https://ns570902.ip-51-161-15.net/Uploads/Filmes/D/dragon-ball-super-movie-broly/filme-01.mp4
