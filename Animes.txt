@@ -54,53 +54,53 @@ http://cdn02.fluehost.com/a/absolute-duo/sd/12.mp4
 
 #ACCEL WORLD#
 
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E1
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-001-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E2
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-002-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E3
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-003-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E4
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-004-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E5
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-005-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E6
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-006-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E7
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-007-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E8
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-008-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E9
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-009-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E10
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-010-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E11
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E11
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-011-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E12
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-012-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E13
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E13
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-013-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E14
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E14
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-014-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E15
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E15
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-015-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E16
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E16
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-016-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E17
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E17
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-017-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E18
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E18
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-018-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E19
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E19
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-019-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E20
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E20
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-020-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E21
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E21
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-021-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E22
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E22
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-022-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E23
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E23
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-023-hd.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/accel-world.webp" group-title="Accel World" ,Accel World T1:E24
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxFn3dGvt8zY6BJcyTQebtw3vGG.jpg" group-title="Accel World" ,Accel World T1:E24
 http://cdn02.fluehost.com/a/accel-world/hd/episaodio-024-hd.mp4 
 
 #BOB ESPONJA#
