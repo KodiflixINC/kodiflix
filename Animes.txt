@@ -328,79 +328,79 @@ http://cdn01.fluehost.com/c/bob-esponja-dublado/sd/110.MP4
 
 #DEATH NOTE#
 
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E1
 http://cdn02.fluehost.com/d/death-note/sd/01.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E2
 http://cdn02.fluehost.com/d/death-note/sd/02.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E3
 http://cdn02.fluehost.com/d/death-note/sd/03.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E4
 http://cdn02.fluehost.com/d/death-note/sd/04.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E5
 http://cdn02.fluehost.com/d/death-note/sd/05.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E6
 http://cdn02.fluehost.com/d/death-note/sd/06.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E7
 http://cdn02.fluehost.com/d/death-note/sd/07.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E8
 http://cdn02.fluehost.com/d/death-note/sd/08.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E9
 http://cdn02.fluehost.com/d/death-note/sd/09.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E10
 http://cdn02.fluehost.com/d/death-note/sd/10.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E11
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E11
 http://cdn02.fluehost.com/d/death-note/sd/11.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E12
 http://cdn02.fluehost.com/d/death-note/sd/12.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E13
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E13
 http://cdn02.fluehost.com/d/death-note/sd/13.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E14
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E14
 http://cdn02.fluehost.com/d/death-note/sd/14.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E15
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E15
 http://cdn02.fluehost.com/d/death-note/sd/15.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E16
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E16
 http://cdn02.fluehost.com/d/death-note/sd/16.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E17
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E17
 http://cdn02.fluehost.com/d/death-note/sd/17.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E18
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E18
 http://cdn02.fluehost.com/d/death-note/sd/18.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/death-note.webp" group-title="Death Note" ,Death Note T1:E19
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg" group-title="Death Note" ,Death Note T1:E19
 http://cdn02.fluehost.com/d/death-note/sd/19.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E20
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E20
 http://cdn02.fluehost.com/d/death-note/sd/20.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E21
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E21
 http://cdn02.fluehost.com/d/death-note/sd/21.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E22
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E22
 http://cdn02.fluehost.com/d/death-note/sd/22.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E23
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E23
 http://cdn02.fluehost.com/d/death-note/sd/23.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E24
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E24
 http://cdn02.fluehost.com/d/death-note/sd/24.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E25
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E25
 http://cdn02.fluehost.com/d/death-note/sd/25.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E26
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E26
 http://cdn02.fluehost.com/d/death-note/sd/26.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E27
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E27
 http://cdn02.fluehost.com/d/death-note/sd/27.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E28
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E28
 http://cdn02.fluehost.com/d/death-note/sd/28.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E29
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E29
 http://cdn02.fluehost.com/d/death-note/sd/29.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E30
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E30
 http://cdn02.fluehost.com/d/death-note/sd/30.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E31
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E31
 http://cdn02.fluehost.com/d/death-note/sd/31.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E32
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E32
 http://cdn02.fluehost.com/d/death-note/sd/32.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E33
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E33
 http://cdn02.fluehost.com/d/death-note/sd/33.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E34
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E34
 http://cdn02.fluehost.com/d/death-note/sd/34.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E35
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E35
 http://cdn02.fluehost.com/d/death-note/sd/35.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E36
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E36
 http://cdn02.fluehost.com/d/death-note/sd/36.MP4
-#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Death-Note.jpg" group-title="Death Note" ,Death Note T2:E37
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfo9GzhCX7x5VEfkCkYIepbKvY.jpg" group-title="Death Note" ,Death Note T2:E37
 http://cdn02.fluehost.com/d/death-note/sd/37.MP4
 
 #DRAGON BALL#
