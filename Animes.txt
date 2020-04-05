@@ -12,7 +12,7 @@ https://cld.pt/dl/download/aedd90be-fa91-41cf-b34d-7bf4597fe068/dragon_ball_z_br
 https://cld.pt/dl/download/9babf95f-77be-445c-a648-8a27dc44e979/dragon_ball_z_o_combate_final_bio-broly.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVlkvo8FvttSFPuJ7y9QO0jCYMG.jpg" group-title="#FILMES#" ,Dragon Ball Z: O Retorno do Guerreiro Lendário
 https://cld.pt/dl/download/369fb250-1021-4b93-9b63-3e53b5cd4333/dragon_Ball_z_broly_o_retorno_do_guerreiro_lend%C3%A1rio.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg-Ey-LvfhJafwu2KXm_ix9mKc3x4eSLJ3pHUxFh1eAm8eNyDf" group-title="#FILMES#" ,Meu Amigo Tororó
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/63hSJqY1RRdAk76ZJM0OmLUjPZL.jpg" group-title="#FILMES#" ,O Meu Vizinho Totoro
 https://ns570902.ip-51-161-15.net/Uploads/Filmes/T/tonari-no-totoro-dublado/filme-01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="#FILMES#" ,Os Sete Pecados Capitais: Prisioneiros dos Céus
 https://cld.pt/dl/download/6a6474f0-f27b-4cac-9129-10b35f21b1df/nanatsu.no.taizai.prisioneiros_dos_ceus.mp4
