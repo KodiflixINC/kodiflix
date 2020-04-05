@@ -561,51 +561,51 @@ http://cdn02.fluehost.com/d/dragon-ball/sd/76.MP4
 http://cdn02.fluehost.com/d/dragon-ball/sd/77.MP4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751944_de30a49806.jpg" group-title="Dragon Ball" ,Dragon Ball T3:E78
 http://cdn02.fluehost.com/d/dragon-ball/sd/78.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E79
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E79
 http://cdn02.fluehost.com/d/dragon-ball/sd/79.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E80
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E80
 http://cdn02.fluehost.com/d/dragon-ball/sd/80.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E81
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E81
 http://cdn02.fluehost.com/d/dragon-ball/sd/81.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E82
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E82
 http://cdn02.fluehost.com/d/dragon-ball/sd/82.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E83
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E83
 http://cdn02.fluehost.com/d/dragon-ball/sd/83.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E84
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E84
 http://cdn02.fluehost.com/d/dragon-ball/sd/84.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E85
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E85
 http://cdn02.fluehost.com/d/dragon-ball/sd/85.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E86
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E86
 http://cdn02.fluehost.com/d/dragon-ball/sd/86.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E87
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E87
 http://cdn02.fluehost.com/d/dragon-ball/sd/87.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E88
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E88
 http://cdn02.fluehost.com/d/dragon-ball/sd/88.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E89
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E89
 http://cdn02.fluehost.com/d/dragon-ball/sd/89.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E90
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E90
 http://cdn02.fluehost.com/d/dragon-ball/sd/90.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E91
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E91
 http://cdn02.fluehost.com/d/dragon-ball/sd/91.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E92
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E92
 http://cdn02.fluehost.com/d/dragon-ball/sd/92.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E93
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E93
 http://cdn02.fluehost.com/d/dragon-ball/sd/93.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E94
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E94
 http://cdn02.fluehost.com/d/dragon-ball/sd/94.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E95
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E95
 http://cdn02.fluehost.com/d/dragon-ball/sd/95.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E96
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E96
 http://cdn02.fluehost.com/d/dragon-ball/sd/96.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E97
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E97
 http://cdn02.fluehost.com/d/dragon-ball/sd/97.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E98
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E98
 http://cdn02.fluehost.com/d/dragon-ball/sd/98.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E99
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E99
 http://cdn02.fluehost.com/d/dragon-ball/sd/99.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E100
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E100
 http://cdn02.fluehost.com/d/dragon-ball/sd/100.MP4
-#EXTINF:-1 tvg-logo="https://animesonline.site/wp-content/uploads/2019/06/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E101
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/pimages/0704400051944_p0_v2_s250x250.jpg" group-title="Dragon Ball" ,Dragon Ball T4:E101
 http://cdn02.fluehost.com/d/dragon-ball/sd/101.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaHCs2KnVEevCMlRErQEeaemkc4KIydgGpzkkaXj-kvSRkmKbs" group-title="Dragon Ball" ,Dragon Ball T5:E102
 http://cdn02.fluehost.com/d/dragon-ball/sd/102.MP4
