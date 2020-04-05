@@ -405,7 +405,7 @@ http://cdn02.fluehost.com/d/death-note/sd/37.MP4
 
 #DRAGON BALL#
 
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E1
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E1
 http://cdn02.fluehost.com/d/dragon-ball/sd/01.MP4
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E2
 http://cdn02.fluehost.com/d/dragon-ball/sd/02.MP4
