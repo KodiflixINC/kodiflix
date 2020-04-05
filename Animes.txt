@@ -407,29 +407,29 @@ http://cdn02.fluehost.com/d/death-note/sd/37.MP4
 
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E1
 http://cdn02.fluehost.com/d/dragon-ball/sd/01.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E2
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E2
 http://cdn02.fluehost.com/d/dragon-ball/sd/02.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E3
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E3
 http://cdn02.fluehost.com/d/dragon-ball/sd/03.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E4
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E4
 http://cdn02.fluehost.com/d/dragon-ball/sd/04.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E5
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E5
 http://cdn02.fluehost.com/d/dragon-ball/sd/05.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E6
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E6
 http://cdn02.fluehost.com/d/dragon-ball/sd/06.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E7
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E7
 http://cdn02.fluehost.com/d/dragon-ball/sd/07.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E8
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E8
 http://cdn02.fluehost.com/d/dragon-ball/sd/08.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E9
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E9
 http://cdn02.fluehost.com/d/dragon-ball/sd/09.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E10
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E10
 http://cdn02.fluehost.com/d/dragon-ball/sd/10.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E11
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E11
 http://cdn02.fluehost.com/d/dragon-ball/sd/11.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E12
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E12
 http://cdn02.fluehost.com/d/dragon-ball/sd/12.MP4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/dragon-ball.webp" group-title="Dragon Ball" ,Dragon Ball T1:E13
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E13
 http://cdn02.fluehost.com/d/dragon-ball/sd/13.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E14
 http://cdn02.fluehost.com/d/dragon-ball/sd/14.MP4
