@@ -27,29 +27,29 @@ http://cdn01.fluehost.com/f/yu-gi-oh-vinculos-alem-do-tempo/yu-gi-oh-vinculos-al
 
 #ABSOLUTE DUO#
 
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E1
 http://cdn02.fluehost.com/a/absolute-duo/sd/01.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E2
 http://cdn02.fluehost.com/a/absolute-duo/sd/02.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E3
 http://cdn02.fluehost.com/a/absolute-duo/sd/03.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E4
 http://cdn02.fluehost.com/a/absolute-duo/sd/04.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E5
 http://cdn02.fluehost.com/a/absolute-duo/sd/05.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E6
 http://cdn02.fluehost.com/a/absolute-duo/sd/06.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E7
 http://cdn02.fluehost.com/a/absolute-duo/sd/07.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E8
 http://cdn02.fluehost.com/a/absolute-duo/sd/08.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E9
 http://cdn02.fluehost.com/a/absolute-duo/sd/09.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E10
 http://cdn02.fluehost.com/a/absolute-duo/sd/10.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E11
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E11
 http://cdn02.fluehost.com/a/absolute-duo/sd/11.mp4
-#EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/absolute-duo.webp" group-title="Absolute Duo" ,Absolute Duo T1:E12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVyHliwvG4vhfx3VVMRhTVDwkkO.jpg" group-title="Absolute Duo" ,Absolute Duo T1:E12
 http://cdn02.fluehost.com/a/absolute-duo/sd/12.mp4
 
 #ACCEL WORLD#
