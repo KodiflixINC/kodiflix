@@ -431,35 +431,35 @@ http://cdn02.fluehost.com/d/dragon-ball/sd/11.MP4
 http://cdn02.fluehost.com/d/dragon-ball/sd/12.MP4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751645_871ec92f55.jpg" group-title="Dragon Ball" ,Dragon Ball T1:E13
 http://cdn02.fluehost.com/d/dragon-ball/sd/13.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E14
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E14
 http://cdn02.fluehost.com/d/dragon-ball/sd/14.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E15
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E15
 http://cdn02.fluehost.com/d/dragon-ball/sd/15.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E16
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E16
 http://cdn02.fluehost.com/d/dragon-ball/sd/16.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E17
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E17
 http://cdn02.fluehost.com/d/dragon-ball/sd/17.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E18
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E18
 http://cdn02.fluehost.com/d/dragon-ball/sd/18.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E19
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E19
 http://cdn02.fluehost.com/d/dragon-ball/sd/19.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E20
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E20
 http://cdn02.fluehost.com/d/dragon-ball/sd/20.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E21
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E21
 http://cdn02.fluehost.com/d/dragon-ball/sd/21.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E22
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E22
 http://cdn02.fluehost.com/d/dragon-ball/sd/22.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E23
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E23
 http://cdn02.fluehost.com/d/dragon-ball/sd/23.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E24
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E24
 http://cdn02.fluehost.com/d/dragon-ball/sd/24.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E25
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E25
 http://cdn02.fluehost.com/d/dragon-ball/sd/25.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E26
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E26
 http://cdn02.fluehost.com/d/dragon-ball/sd/26.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E27
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E27
 http://cdn02.fluehost.com/d/dragon-ball/sd/27.MP4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHESk8464WAH_XfnqpCdJSsr_aKg1uLr4wMtQoD5k7taDo2g7E" group-title="Dragon Ball" ,Dragon Ball T2:E28
+#EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1751/1751647_3ef6b4e569.jpg" group-title="Dragon Ball" ,Dragon Ball T2:E28
 http://cdn02.fluehost.com/d/dragon-ball/sd/28.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcbsqgF8yJRQd65PQjv9NRsembRyksvvjISB8p5v-19Qtgm-VU" group-title="Dragon Ball" ,Dragon Ball T3:E29
 http://cdn02.fluehost.com/d/dragon-ball/sd/29.MP4
