@@ -15,7 +15,7 @@ https://cld.pt/dl/download/369fb250-1021-4b93-9b63-3e53b5cd4333/dragon_Ball_z_br
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/63hSJqY1RRdAk76ZJM0OmLUjPZL.jpg" group-title="#FILMES#" ,O Meu Vizinho Totoro
 https://ns570902.ip-51-161-15.net/Uploads/Filmes/T/tonari-no-totoro-dublado/filme-01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="#FILMES#" ,Os Sete Pecados Capitais: Prisioneiros dos Céus
-https://cld.pt/dl/download/6a6474f0-f27b-4cac-9129-10b35f21b1df/nanatsu.no.taizai.prisioneiros_dos_ceus.mp4
+https://cld.pt/dl/download/30b5d45d-da9f-423c-a604-cc539bf981e8/nanatsu_prisioneiros_dos_ceus.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1lt7uwXxNXxurOQqnEyosG6Y5zb.jpg" group-title="#FILMES#" ,The Last - Naruto O Filme
 https://cld.pt/dl/download/b937cbcd-e817-417d-b7f7-62f54a37eb1d/the_last.naruto_shippuden.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq1Ugd62d23K2knRUx6xxuALTZB.jpg" group-title="#FILMES#" ,Your Name
