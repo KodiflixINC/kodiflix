@@ -2974,6 +2974,49 @@ https://ns569461.ip-51-79-82.net/S/shingeki-kyojin-chuugakkou/11.MP4
 #EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Shingeki-Kyojin-Chuugakkou.jpg" group-title="Shingeki! Kyojin Chuugakkou" ,Shingeki! Kyojin Chuugakkou T1:E12
 https://ns569461.ip-51-79-82.net/S/shingeki-kyojin-chuugakkou/12.MP4
 
+#SUPER DRAGON BALL HEROES#
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E1
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/01.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E2
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/02.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E3
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/03.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E4
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/04.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E5
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/05.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E6
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/06.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E7
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/07.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E8
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/08.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E9
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/09.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E10
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/10.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E11
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/11hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E12
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/12hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E13
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E14
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/14.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E15
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/15hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E16
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/16hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E17
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/17hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E18
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/18hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E19
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/19hd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Super Dragon Ball Heroes" ,Super Dragon Ball Heroes T1:E20
+https://ns569461.ip-51-79-82.net/D/dragon-ball-heroes/20hd.mp4
+
 #TOKYO GHOUL#
 
 #EXTINF:-1 tvg-logo="https://www.animeshd.biz/images/covers/tokyo-ghoul-blu-ray.webp" group-title="Tokyo Ghoul" ,Tokyo Ghoul T1:E1
