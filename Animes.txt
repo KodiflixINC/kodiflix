@@ -2375,7 +2375,7 @@ https://cld.pt/dl/download/7a56bca6-c937-40e0-9558-467f363658ad/ep_147-148.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710598_ff7ccdaedd.jpg" group-title="Naruto" ,Naruto T6:E149
 https://cld.pt/dl/download/d59f4014-dae5-44fe-ba8a-5a837b6c06ef/ep_149.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710598_ff7ccdaedd.jpg" group-title="Naruto" ,Naruto T6:E150
-https://cld.pt/dl/download/d3d6cf4a-ff4d-40e0-8962-ba11da3d6970/ep_150.mp4
+
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710598_ff7ccdaedd.jpg" group-title="Naruto" ,Naruto T6:E151
 https://cld.pt/dl/download/537a1b9f-fb75-4094-a89f-fe1cedda754a/ep_151.mp4
 #EXTINF:-1 tvg-logo="http://universo3gp.com.br/img/1710/1710598_ff7ccdaedd.jpg" group-title="Naruto" ,Naruto T6:E152
